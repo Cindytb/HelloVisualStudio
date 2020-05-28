@@ -3,7 +3,7 @@
 ## By Cindy Bui
 
 This git repo is paired with my tutorial/introduction to Visual Studio and C++ audio programming, 
-found [here](https://cindybui.me/pages/Blogs/Visual_Studio.html). 
+found [here](https://cindybui.me/pages/blogs/visual_studio_0). 
 This tutorial is meant to show you how to incorporate libsndfile and portaudio into your projects on Windows.
 This repo is the final product of that tutorial.
 
